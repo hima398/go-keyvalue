@@ -1,1 +1,3 @@
 # go-keyvalue
+
+This project is for my study only...
